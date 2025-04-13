@@ -1,7 +1,5 @@
-viikko 2: --
-layout: default
-title: Viikko 2
----
+viikko 2
+
 
 ## Jekyll-teema ja CI/CD 
 
